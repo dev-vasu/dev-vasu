@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I’m @dev-vasu
+
 <h1 align="center">Hi 👋, I'm Vasudev Singh Jamwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
