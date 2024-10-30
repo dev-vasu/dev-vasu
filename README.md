@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vasudevsinghh" target="blank"><img src="https://img.shields.io/twitter/follow/vasudevsinghh?logo=twitter&style=for-the-badge" alt="vasudevsinghh" /></a> </p>
 
-- 🔭 I’m currently working on **Autocorrection Using NLP and Neural Networks**
+- 🔭 I’m currently working on **Autocorrection System Using NLP and Neural Networks**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
