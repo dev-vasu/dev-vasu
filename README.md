@@ -1,9 +1,9 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" ></p>
 <br><br>
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vasudev Singh Jamwal</h1>
-<h3 align="center">A passionate ML developer from India</h3>
+<h3 align="center">A passionate AI/ML developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/vasudevsinghh" target="blank"><img src="https://img.shields.io/twitter/follow/vasudevsinghh?logo=twitter&style=for-the-badge" alt="vasudevsinghh" /></a> </p>
 
