@@ -1,4 +1,3 @@
-<!-- Banner GIF -->
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </p>
@@ -63,8 +62,7 @@
 
 ---
 
-## 📈 GitHub Streak Stats  
-> 🚀 **Fixed!** Using the latest working version  
+## 📈 GitHub Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.vercel.app?user=dev-vasu&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
@@ -82,12 +80,19 @@
 
 ---
 
-## 💡 Random Dev Meme 😆  
-> 🚀 **Fixed!** Replaced with a working meme generator  
+## 💡 Random Dev Meme 😆
 <p align="center">
   <img src="https://meme-api.com/gimme/programminghumor" width="400px" />
 </p>
 
 ---
 
-### 🎯 *Let's Build Something Amazing Together!* 🚀
+## 📝 Project Description
+This project is an Autocorrection System using NLP and Neural Networks. It aims to provide accurate corrections for text input by leveraging advanced natural language processing techniques and deep learning models.
+
+---
+
+## 🛠️ Installation Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/dev-vasu/dev-vasu.git
