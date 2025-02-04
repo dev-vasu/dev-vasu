@@ -63,9 +63,10 @@
 
 ---
 
-## 📈 GitHub Streak Stats
+## 📈 GitHub Streak Stats  
+> 🚀 **Fixed!** Using the latest working version  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-vasu&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=dev-vasu&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -81,9 +82,10 @@
 
 ---
 
-## 💡 Random Dev Meme 😆
+## 💡 Random Dev Meme 😆  
+> 🚀 **Fixed!** Replaced with a working meme generator  
 <p align="center">
-  <img src="https://meme-api.herokuapp.com/gimme" width="400px" />
+  <img src="https://meme-api.com/gimme/programminghumor" width="400px" />
 </p>
 
 ---
