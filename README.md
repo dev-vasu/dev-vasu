@@ -63,9 +63,9 @@
 
 ---
 
-## 📈 Streak Stats
+## 📈 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-vasu&theme=highcontrast" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=dev-vasu&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -83,7 +83,7 @@
 
 ## 💡 Random Dev Meme 😆
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400px" />
+  <img src="https://api.popcat.xyz/meme" width="400px" />
 </p>
 
 ---
