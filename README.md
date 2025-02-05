@@ -96,3 +96,9 @@ This project is an Autocorrection System using NLP and Neural Networks. It aims 
 1. Clone the repository:
    ```bash
    git clone https://github.com/dev-vasu/dev-vasu.git
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
