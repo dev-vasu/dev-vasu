@@ -12,7 +12,6 @@
 </p>
 
 ---
-![snake](https://cdn.jsdelivr.net/gh/codeacg/codeacg@main/assets/github-contribution-grid-snake.svg)
 
 
 ## 🚀 About Me
