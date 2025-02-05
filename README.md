@@ -12,6 +12,8 @@
 </p>
 
 ---
+![snake](https://cdn.jsdelivr.net/gh/codeacg/codeacg@main/assets/github-contribution-grid-snake.svg)
+
 
 ## 🚀 About Me
 - 🔭 Currently working on **Autocorrection System Using NLP and Neural Networks**  
