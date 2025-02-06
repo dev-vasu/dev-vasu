@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dev-vasu&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="right">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-vasu&theme=android-dark)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dev-vasu&theme=android-dark" alt="GitHub Streak" /></a>
 </p>
 
 
