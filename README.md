@@ -80,7 +80,7 @@
 
 ## 💡 Random Dev Meme 😆
 <p align="center">
-  <img src="https://meme-api.com/gimme/programminghumor" width="400px" />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
 </p>
 
 ---
