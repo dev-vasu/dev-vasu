@@ -77,7 +77,7 @@
 </p>
 
 ---
-### 😉: Programming Joke :
+### 😉 Programming Joke :
 
 <!-- Markdown -->
 
