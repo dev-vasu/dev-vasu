@@ -88,16 +88,6 @@
 
 ---
 
-## 📝 Project Description
-This project is an Autocorrection System using NLP and Neural Networks. It aims to provide accurate corrections for text input by leveraging advanced natural language processing techniques and deep learning models.
-
----
-
-## 🛠️ Installation Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/dev-vasu/dev-vasu.git
-
 
 
 <p align="center">
