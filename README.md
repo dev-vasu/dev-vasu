@@ -46,14 +46,16 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="justify">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=dev-vasu&show_icons=true&theme=radical" alt="GitHub Stats" />
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dev-vasu&theme=radical" alt="GitHub Streak" /></a>
+  
 </p>
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-vasu&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
+  
 </p>
 
 ---
