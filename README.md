@@ -77,6 +77,12 @@
 </p>
 
 ---
+### 😉: Programming Joke :
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+---
 
 ## 💡 Random Tech
 <p align="center">
