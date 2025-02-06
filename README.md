@@ -64,9 +64,7 @@
 ---
 
 ## 📈 GitHub Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=dev-vasu&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-vasu&theme=android-dark)](https://git.io/streak-stats)
 
 ---
 
