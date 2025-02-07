@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/twitter/follow/vasudevsinghh?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
-
 ---
 
 
