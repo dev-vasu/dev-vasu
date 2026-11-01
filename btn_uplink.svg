@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135 48" width="135" height="48">
+  <defs>
+    <linearGradient id="bg_06" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#111827" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#030712" stop-opacity="0.95" />
+    </linearGradient>
+    <linearGradient id="beam_06" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fda4af" stop-opacity="0" />
+      <stop offset="50%" stop-color="#fda4af" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#fda4af" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    @keyframes pulse_06 {
+      0%, 100% { opacity: 0.35; }
+      50% { opacity: 0.9; }
+    }
+    .indicator {
+      animation: pulse_06 2s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Button Base Plate -->
+  <rect x="1" y="1" width="133" height="46" rx="5" fill="url(#bg_06)" stroke="#334155" stroke-width="1.2" />
+
+  <!-- Corner Reticles -->
+  <path d="M 1 7 L 1 1 L 7 1" stroke="#fda4af" stroke-width="1.2" fill="none" />
+  <path d="M 127 1 L 133 1 L 133 7" stroke="#fda4af" stroke-width="1.2" fill="none" />
+  <path d="M 133 41 L 133 47 L 127 47" stroke="#fda4af" stroke-width="1.2" fill="none" />
+  <path d="M 7 47 L 1 47 L 1 41" stroke="#fda4af" stroke-width="1.2" fill="none" />
+
+  <!-- Sector Tag + Live Pulse -->
+  <circle cx="12" cy="15" r="2.5" fill="#fda4af" class="indicator" />
+  <text x="20" y="18" class="mono" font-size="8.5" font-weight="700" fill="#64748b" letter-spacing="0.5px">SEC // 06</text>
+
+  <!-- Title & Icon -->
+  <text x="12" y="34" class="mono" font-size="11" font-weight="700" fill="#fda4af" letter-spacing="0.5px">&#x1F4EC; UPLINK</text>
+</svg>

@@ -11,8 +11,42 @@
 
   <br/><br/>
 
-  <!-- Integrated Mission Control Navigation & Telemetry Console -->
-  <img src="mission_nav.svg?v=1" width="100%" alt="Mission Control Navigation Console" />
+  <!-- Mission Control Fast-Navigation Dock -->
+  <img src="nav_header_strip.svg?v=1" width="100%" alt="Mission Control Header" />
+
+  <br/><br/>
+
+  <div align="center">
+    <a href="#telemetry">
+      <img src="btn_telemetry.svg?v=1" width="16%" alt="01 Telemetry" />
+    </a>
+    <a href="#neural-arsenal">
+      <img src="btn_arsenal.svg?v=1" width="16%" alt="02 Arsenal" />
+    </a>
+    <a href="#achievements">
+      <img src="btn_trophies.svg?v=1" width="16%" alt="03 Trophies" />
+    </a>
+    <a href="#flagship-systems">
+      <img src="btn_systems.svg?v=1" width="16%" alt="04 Systems" />
+    </a>
+    <a href="#quantum-metrics">
+      <img src="btn_metrics.svg?v=1" width="16%" alt="05 Metrics" />
+    </a>
+    <a href="#encrypted-uplink">
+      <img src="btn_uplink.svg?v=1" width="16%" alt="06 Uplink" />
+    </a>
+  </div>
+
+  <br/>
+
+  <!-- Profile Telemetry Counter & Flagship Launch -->
+  <div align="center">
+    <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
+      <img src="https://img.shields.io/badge/FLAGSHIP_NODE-01_DIGITAL_ID-38bdf8?style=flat-square&logo=radar&logoColor=black" height="22" alt="Digital ID" />
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=dev-vasu&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" height="22" alt="Profile Views" />
+  </div>
 
 </div>
 
