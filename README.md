@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Stylized Cyberpunk Title Header -->
-  <img src="name_header.svg" width="100%" alt="Vasudev Singh Jamwal" />
+  <img src="name_header.svg?v=titanium" width="100%" alt="Vasudev Singh Jamwal" />
 
 
   <!-- Dynamic Live Typing Terminal -->
