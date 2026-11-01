@@ -211,24 +211,24 @@
 
 <div align="center">
   <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
-    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_digital_id.svg?v=1" width="49%" alt="Digital ID Hub" />
+    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_digital_id.svg?v=matte" width="98.5%" alt="Digital ID Hub" />
   </a>
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/vasudev-singh-jamwal" target="_blank">
-    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_linkedin.svg?v=1" width="49%" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_linkedin.svg?v=matte" width="49%" alt="LinkedIn" />
   </a>
-</div>
-
-<div align="center">
   <a href="mailto:svasudev941@gmail.com">
-    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_email.svg?v=1" width="49%" alt="Email" />
-  </a>
-  <a href="https://x.com/vasudevsinghh" target="_blank">
-    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_x.svg?v=1" width="49%" alt="X Transmission" />
+    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_email.svg?v=matte" width="49%" alt="Email" />
   </a>
 </div>
 
 <div align="center">
+  <a href="https://x.com/vasudevsinghh" target="_blank">
+    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_x.svg?v=matte" width="49%" alt="X Transmission" />
+  </a>
   <a href="https://www.instagram.com/rajput.vasudevv/" target="_blank">
-    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_instagram.svg?v=1" width="98.5%" alt="Instagram Feed" />
+    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_instagram.svg?v=matte" width="49%" alt="Instagram Feed" />
   </a>
 </div>
