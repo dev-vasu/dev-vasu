@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Dynamic Cyber Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:030712,40:06b6d4,80:6366f1,100:a855f7&height=220&section=header&text=VASUDEV%20SINGH%20JAMWAL&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20AI%20%26%20ML%20RESEARCHER%20%E2%80%A2%20SYSTEMS%20ARCHITECT&descAlignY=58&descSize=14&descAlign=50" width="100%"/>
+  <h1>⚡ VASUDEV SINGH JAMWAL</h1>
+  <p><b>Software Engineer &bull; AI / ML Researcher &bull; Systems Architect</b></p>
 
   <!-- Live Typing Terminal Tagline -->
   <a href="https://git.io/typing-svg">
@@ -111,8 +111,6 @@ interactive_card: "https://dev-vasu.github.io/digital-id/"
 
 <br/>
 
-
-
 ---
 
 ### 📬 `ESTABLISH_UPLINK`
@@ -135,10 +133,4 @@ interactive_card: "https://dev-vasu.github.io/digital-id/"
     <img src="https://img.shields.io/badge/Visuals-@rajput.vasudevv-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:030712,50:06b6d4,100:6366f1&height=70&section=footer" width="100%"/>
 </div>
