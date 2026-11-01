@@ -1,11 +1,11 @@
 <div align="center">
 
   <h1>⚡ VASUDEV SINGH JAMWAL</h1>
-  <p><b>Software Engineer &bull; AI / ML Researcher &bull; Systems Architect</b></p>
+  <p><b>Software Support Engineer @ GreyOrange &bull; AI / ML & GenAI Enthusiast &bull; Systems & Cloud</b></p>
 
   <!-- Live Typing Terminal Tagline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=620&lines=Building+Intelligent+Autonomous+AI+Agents;Deep+Learning+%26+Neural+Language+Architectures;Bridging+High-Performance+Code+with+Machine+Intelligence;Welcome+to+my+Digital+Neural+Node+v2.0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=620&lines=Software+Support+Engineer+%40+GreyOrange;Robotics+%26+Warehouse+Automation+Ecosystems;K8s+%E2%80%A2+Docker+%E2%80%A2+Erlang+%E2%80%A2+Postgres+%E2%80%A2+Linux;Observability+with+Grafana+%26+InfluxDB;Generative+AI+%26+Neural+Language+Architectures" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -34,13 +34,14 @@
 
 ```yaml
 identity: Vasudev Singh Jamwal
-role: Software Engineer | AI & Machine Learning Enthusiast
-domain_focus:
-  - Deep Learning & Neural Network Architectures
-  - Autocorrection Systems via NLP & Transformer Models
-  - Recommendation Engines & Collaborative Filtering
-  - Mobile & Systems Engineering (Android, Flutter, C/C++)
-status: "RUNNING_EPOCH_999 :: 🟢 AVAILABLE_FOR_COLLABORATION"
+current_role: Software Support Engineer @ GreyOrange
+ecosystem_focus:
+  - Distributed Robotics & Automation Infrastructure (Erlang, Linux VMs, Shell/Python Automation)
+  - Container Orchestration & Cloud Infrastructure (Kubernetes, Docker)
+  - Database Architectures & Telemetry (PostgreSQL, SQL, InfluxDB, Grafana)
+  - API Engineering & Diagnostics (REST APIs, Swagger, Postman, cURL)
+  - Artificial Intelligence (Generative AI, Deep Learning, NLP & Autonomous Agents)
+status: "RUNNING_EPOCH_999 :: 🟢 ACTIVE_PRODUCTION_OPERATIONS"
 location: India 🇮🇳
 interactive_card: "https://dev-vasu.github.io/digital-id/"
 ```
@@ -52,27 +53,37 @@ interactive_card: "https://dev-vasu.github.io/digital-id/"
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="100"><b>AI & Core ML</b></td>
+      <td align="center" width="130"><b>Cloud & DevOps</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv" />
+        <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,bash,git,github,aws,gcp" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="100"><b>Systems & Languages</b></td>
+      <td align="center" width="130"><b>Databases & Observability</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=cpp,c,java,dart,js,html,css" />
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,grafana" />
+        <a href="#"><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" height="40"/></a>
       </td>
     </tr>
     <tr>
-      <td align="center" width="100"><b>Frameworks & App</b></td>
+      <td align="center" width="130"><b>Languages & Scripting</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,tailwind" />
+        <img src="https://skillicons.dev/icons?i=erlang,python,bash,cpp,c,java,dart,js" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="100"><b>Cloud & DevOps</b></td>
+      <td align="center" width="130"><b>APIs & Diagnostics</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git,github,linux,aws,gcp,mysql,postgres,docker" />
+        <img src="https://skillicons.dev/icons?i=postman" />
+        <a href="#"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" height="40"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white" height="40"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="130"><b>AI / ML & GenAI</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" />
+        <a href="#"><img src="https://img.shields.io/badge/Generative_AI-LLMs_&_Agents-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" height="40"/></a>
       </td>
     </tr>
   </table>
@@ -86,7 +97,7 @@ interactive_card: "https://dev-vasu.github.io/digital-id/"
 
 | Project | Domain | Architecture | Live / Repo |
 | :--- | :--- | :--- | :--- |
-| **🪪 Cyber Digital ID** | WebGL / 3D Canvas / AI HUD | Kinetic Physics, Web Audio & Particles | [🌐 Live ID](https://dev-vasu.github.io/digital-id/) |
+| **🪪 Cyber Digital ID** | WebGL / 3D Canvas / AI HUD | Kinetic Physics, FakeScroll & Particles | [🌐 Live ID](https://dev-vasu.github.io/digital-id/) |
 | **🤖 Autocorrection System** | Natural Language Processing | Neural Sequence Modeling & Word Vectors | [💻 View Code](https://github.com/dev-vasu) |
 | **🎵 Music Recommendation Engine** | Collaborative Filtering | Latent Factor Matrix Factorization | [📦 Repo](https://github.com/dev-vasu/Music-recommendation-System-with-Collaborative-Filtering) |
 | **🚦 Traffic Incident Classifier** | Deep Vision / Classification | CNN Feature Extraction | [📦 Repo](https://github.com/dev-vasu/Traffic-Incident-Classifier) |
