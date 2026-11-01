@@ -11,26 +11,38 @@
 
   <br/><br/>
 
-  <a href="https://dev-vasu.github.io/digital-id/">
-    <img src="header_status_bar.svg?v=1" width="100%" alt="System HUD Header" />
-  </a>
+  <!-- HUD Mission Control Directory & Quick Jump Index -->
+  <table width="100%">
+    <thead>
+      <tr style="background: rgba(148, 163, 184, 0.08);">
+        <th colspan="6" align="center">
+          <span style="font-family: monospace; font-size: 11px; letter-spacing: 1.5px; color: #94a3b8;">
+            <b>⚡ MISSION_INDEX // SYSTEM_SECTORS DIRECTORY</b>
+          </span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><a href="#telemetry"><b>[ 🛰️&nbsp;01.TELEMETRY ]</b></a></td>
+        <td align="center"><a href="#neural-arsenal"><b>[ 🧬&nbsp;02.ARSENAL ]</b></a></td>
+        <td align="center"><a href="#achievements"><b>[ 🏆&nbsp;03.TROPHIES ]</b></a></td>
+        <td align="center"><a href="#flagship-systems"><b>[ ⚡&nbsp;04.SYSTEMS ]</b></a></td>
+        <td align="center"><a href="#quantum-metrics"><b>[ 📊&nbsp;05.METRICS ]</b></a></td>
+        <td align="center"><a href="#encrypted-uplink"><b>[ 📬&nbsp;06.UPLINK ]</b></a></td>
+      </tr>
+    </tbody>
+  </table>
 
-  <br/><br/>
+  <br/>
 
-  <!-- High-Precision HUD Quick-Action Dock -->
-  <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
-    <img src="https://img.shields.io/badge/01_DIGITAL_ID-3D_CANVAS-38bdf8?style=flat-square&logo=radar&logoColor=black" height="24" alt="Digital ID" />
-  </a>
-  <a href="https://linkedin.com/in/vasudev-singh-jamwal" target="_blank">
-    <img src="https://img.shields.io/badge/02_LINKEDIN-NETWORK-93c5fd?style=flat-square&logo=linkedin&logoColor=black" height="24" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/vasudevsinghh" target="_blank">
-    <img src="https://img.shields.io/badge/03_X-FEED-f1f5f9?style=flat-square&logo=x&logoColor=black" height="24" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/rajput.vasudevv/" target="_blank">
-    <img src="https://img.shields.io/badge/04_INSTAGRAM-OPTIC-fda4af?style=flat-square&logo=instagram&logoColor=black" height="24" alt="Instagram" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=dev-vasu&color=38bdf8&style=flat-square&label=VIEWS" height="24" alt="Profile Views" />
+  <div align="center">
+    <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
+      <img src="https://img.shields.io/badge/FLAGSHIP_NODE-01_DIGITAL_ID-38bdf8?style=flat-square&logo=radar&logoColor=black" height="22" alt="Digital ID" />
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=dev-vasu&color=38bdf8&style=flat-square&label=VISITOR_TELEMETRY" height="22" alt="Profile Views" />
+  </div>
 
 </div>
 
@@ -38,6 +50,7 @@
 
 ---
 
+<a id="telemetry"></a>
 ### 🛰️ `SYSTEM_TELEMETRY::OVERVIEW`
 
 ```shell
@@ -57,6 +70,7 @@
 
 ---
 
+<a id="neural-arsenal"></a>
 ### 🧬 `NEURAL_ARSENAL & PRODUCTION_MATRIX`
 
 <div align="center">
@@ -108,6 +122,7 @@
 
 ---
 
+<a id="achievements"></a>
 ### 🏆 `DEVELOPER_ACHIEVEMENTS & TROPHIES`
 
 <div align="center">
@@ -116,6 +131,7 @@
 
 ---
 
+<a id="flagship-systems"></a>
 ### ⚡ `FLAGSHIP_ENGINEERING & CORE_SYSTEMS`
 
 <div align="center">
@@ -177,6 +193,7 @@
 
 ---
 
+<a id="quantum-metrics"></a>
 ### 📊 `QUANTUM_METRICS & GITHUB_ACTIVITY`
 
 <div align="center">
@@ -205,6 +222,7 @@
 
 ---
 
+<a id="encrypted-uplink"></a>
 ### 📬 `ESTABLISH_ENCRYPTED_UPLINK`
 
 <div align="center">
