@@ -1,23 +1,28 @@
 <div align="center">
 
-  <!-- Dynamic Waving Cyber Header Banner -->
+  <!-- Futuristic Cyberpunk Dynamic HUD Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=180&section=header&text=VASUDEV%20SINGH%20JAMWAL&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-  <p><b>⚡ Software Support Engineer @ GreyOrange &bull; AI / ML & GenAI &bull; Cloud & Systems</b></p>
+  <!-- Glowing HUD Subtitle & Live Status -->
+  <p align="center">
+    <a href="https://dev-vasu.github.io/digital-id/"><img src="https://img.shields.io/badge/QUANTUM_NODE-ACTIVE_01-06b6d4?style=for-the-badge&logo=electron&logoColor=cyan&labelColor=030712" /></a>
+    <img src="https://img.shields.io/badge/ORBIT-GREYORANGE_ROBOTICS-8b5cf6?style=for-the-badge&logo=robot&logoColor=purple&labelColor=030712" />
+    <img src="https://img.shields.io/badge/SECURITY-ROOT_VERIFIED-10b981?style=for-the-badge&logo=gnubash&logoColor=emerald&labelColor=030712" />
+  </p>
 
   <!-- Live Typing Terminal Tagline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=620&lines=Software+Support+Engineer+%40+GreyOrange;Robotics+%26+Warehouse+Automation+Ecosystems;K8s+%E2%80%A2+Docker+%E2%80%A2+Erlang+%E2%80%A2+Postgres+%E2%80%A2+Linux;Observability+with+Grafana+%26+InfluxDB;Generative+AI+%26+Neural+Language+Architectures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=620&lines=Software+Support+Engineer+%40+GreyOrange;Orchestrating+Robotics+%26+Warehouse+Automation;Erlang+%E2%80%A2+Kubernetes+%E2%80%A2+Docker+%E2%80%A2+Linux+VMs;PostgreSQL+%E2%80%A2+InfluxDB+%E2%80%A2+Grafana+Observability;Architecting+Autonomous+Generative+AI+Systems" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Interactive Cyber HUD Quick Badges -->
+  <!-- Interactive Cyber Quick-Link Badges -->
   <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%AA%AA%20DIGITAL%20ID-INTERACTIVE%20HUD-06b6d4?style=for-the-badge&logoColor=white&labelColor=0b0f19" alt="Digital ID" />
+    <img src="https://img.shields.io/badge/%F0%9F%AA%AA%20DIGITAL%20ID-INTERACTIVE%203D%20CARD-06b6d4?style=for-the-badge&logoColor=white&labelColor=0b0f19" alt="Digital ID" />
   </a>
   <a href="https://linkedin.com/in/vasudev-singh-jamwal" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f19" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-NETWORK%20UPLINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f19" alt="LinkedIn" />
   </a>
   <a href="https://x.com/vasudevsinghh" target="_blank">
     <img src="https://img.shields.io/badge/X-@VASUDEVSINGHH-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0b0f19" alt="Twitter" />
@@ -32,20 +37,21 @@
 
 ---
 
-### 📡 `SYSTEM_TELEMETRY::OVERVIEW`
+### 🛰️ `TELEMETRY_TERMINAL::SYSTEM_DIAGNOSTICS`
 
-```yaml
-identity: Vasudev Singh Jamwal
-current_role: Software Support Engineer @ GreyOrange
-ecosystem_focus:
-  - Distributed Robotics & Automation Infrastructure (Erlang, Linux VMs, Shell/Python Automation)
-  - Container Orchestration & Cloud Infrastructure (Kubernetes, Docker)
-  - Database Architectures & Telemetry (PostgreSQL, SQL, InfluxDB, Grafana)
-  - API Engineering & Diagnostics (REST APIs, Swagger, Postman, cURL)
-  - Artificial Intelligence (Generative AI, Deep Learning, NLP & Autonomous Agents)
-status: "RUNNING_EPOCH_999 :: 🟢 ACTIVE_PRODUCTION_OPERATIONS"
-location: India 🇮🇳
-interactive_card: "https://dev-vasu.github.io/digital-id/"
+```shell
+┌──[vasudev@quantum-core]─[~]
+└──$ neofetch --ascii_distro arch --stdout
+       /\         OPERATOR: Vasudev Singh Jamwal
+      /  \        ROLE: Software Support Engineer @ GreyOrange
+     /\   \       SPECIALIZATION: Robotics Systems & Distributed Automation
+    /      \      INFRASTRUCTURE: Kubernetes Cluster, Docker, Linux VMs, Erlang BEAM
+   /   ,,   \     STORAGE & METRICS: PostgreSQL, InfluxDB, Grafana Telemetry
+  /   |  |  -\    INTERFACES: RESTful APIs, Swagger Specs, Postman, cURL
+ /_-''    ''-_\   COGNITIVE ENGINE: Generative AI, LLMs, Neural Sequence Models
+                  LOCATION: Phagwara, Punjab, India 🇮🇳
+                  SYSTEM STATUS: 🟢 OPTIMAL (Running Epoch 999.0)
+                  DIGITAL IDENTITY: https://dev-vasu.github.io/digital-id/
 ```
 
 ---
@@ -58,44 +64,52 @@ interactive_card: "https://dev-vasu.github.io/digital-id/"
 
 ---
 
-### 🧬 `NEURAL_ARSENAL & TECH_STACK`
+### 🧬 `NEURAL_ARSENAL & PRODUCTION_MATRIX`
 
 <div align="center">
   <table>
-    <tr>
-      <td align="center" width="130"><b>Cloud & DevOps</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,bash,git,github,aws,gcp" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="130"><b>Databases & Observability</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,grafana" />
-        <a href="#"><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" height="40"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="130"><b>Languages & Scripting</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=erlang,python,bash,cpp,c,java,dart,js" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="130"><b>APIs & Diagnostics</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=postman" />
-        <a href="#"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" height="40"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white" height="40"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="130"><b>AI / ML & GenAI</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" />
-        <a href="#"><img src="https://img.shields.io/badge/Generative_AI-LLMs_&_Agents-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" height="40"/></a>
-      </td>
-    </tr>
+    <thead>
+      <tr style="background: rgba(6, 182, 212, 0.1);">
+        <th align="center" width="160">SUBSYSTEM</th>
+        <th align="left">ACTIVE TECHNOLOGIES & TOOLCHAINS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><b>☁️ Cloud & Orchestration</b></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,bash,git,github,aws,gcp" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>📊 Observability & DBs</b></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=postgres,mysql,grafana" />
+          <a href="#"><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" height="40"/></a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>⚡ Runtime & Scripting</b></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=erlang,python,bash,cpp,c,java,dart,js" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>🔌 API Architecture</b></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=postman" />
+          <a href="#"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" height="40"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white" height="40"/></a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>🧠 AI / ML & GenAI</b></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" />
+          <a href="#"><img src="https://img.shields.io/badge/Generative_AI-LLMs_&_Agents-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" height="40"/></a>
+        </td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
@@ -117,7 +131,7 @@ interactive_card: "https://dev-vasu.github.io/digital-id/"
 
 ---
 
-### 📊 `SYSTEM_METRICS & GITHUB_ACTIVITY`
+### 📊 `QUANTUM_METRICS & GITHUB_ACTIVITY`
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-vasu&show_icons=true&theme=tokyonight&border_color=06b6d4&border_radius=12&bg_color=030712&text_color=f8fafc&icon_color=06b6d4&title_color=38bdf8&hide_border=false" width="48%" />
@@ -137,9 +151,15 @@ interactive_card: "https://dev-vasu.github.io/digital-id/"
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-vasu&theme=tokyonight" width="48%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="97%" />
+</div>
+
 ---
 
-### 📬 `ESTABLISH_UPLINK`
+### 📬 `ESTABLISH_ENCRYPTED_UPLINK`
 
 <div align="center">
 
