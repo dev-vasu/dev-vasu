@@ -162,7 +162,11 @@ curl -sL "https://komarev.com/ghpvc/?username=dev-vasu" > /dev/null && (open htt
         <td><b>🪪 Cyber Digital ID Hub</b><br/><sub>High-Tech Interactive Profile Core</sub></td>
         <td>Dynamic WebGL 3D physics canvas, zero-dependency kinetic FakeScroll driver, rAF-driven dragging, and embedded vCard 3.0 generator.</td>
         <td><code>HTML5</code> <code>CSS Grid</code> <code>WebGL</code> <code>vCard 3.0</code></td>
-        <td align="center"><a href="https://dev-vasu.github.io/digital-id/" target="_blank"><b>[🌐&nbsp;LIVE&nbsp;DEMO]</b></a></td>
+        <td align="center">
+          <a href="https://dev-vasu.github.io/digital-id/" target="_blank"><b>[🌐&nbsp;LIVE]</b></a>
+          &nbsp;
+          <a href="https://github.com/dev-vasu/digital-id" target="_blank"><b>[📦&nbsp;REPO]</b></a>
+        </td>
       </tr>
       <tr>
         <td><b>🤖 Robotics Web Automation</b><br/><sub>Warehouse &amp; Autonomous Telemetry</sub></td>
