@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Interactive Cyber Sci-Fi Command Telemetry Unit -->
-  <img src="cyber_hud_banner.svg" width="100%" alt="Cyberpunk Command Telemetry" />
+  <img src="cyber_hud_banner.svg?v=2" width="100%" alt="Cyberpunk Command Telemetry" />
 
   <br/><br/>
 
