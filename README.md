@@ -19,22 +19,18 @@
 
   <!-- High-Precision HUD Quick-Action Dock -->
   <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
-    <img src="https://img.shields.io/badge/01_DIGITAL_ID-VISIT_3D_CANVAS-38bdf8?style=flat-square&logo=radar&logoColor=black" height="26" alt="Digital ID" />
+    <img src="https://img.shields.io/badge/01_DIGITAL_ID-3D_CANVAS-38bdf8?style=flat-square&logo=radar&logoColor=black" height="24" alt="Digital ID" />
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/vasudev-singh-jamwal" target="_blank">
-    <img src="https://img.shields.io/badge/02_LINKEDIN-ENTERPRISE_NET-93c5fd?style=flat-square&logo=linkedin&logoColor=black" height="26" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/02_LINKEDIN-NETWORK-93c5fd?style=flat-square&logo=linkedin&logoColor=black" height="24" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="https://x.com/vasudevsinghh" target="_blank">
-    <img src="https://img.shields.io/badge/03_X-TRANSMISSION-f1f5f9?style=flat-square&logo=x&logoColor=black" height="26" alt="Twitter" />
+    <img src="https://img.shields.io/badge/03_X-FEED-f1f5f9?style=flat-square&logo=x&logoColor=black" height="24" alt="Twitter" />
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/rajput.vasudevv/" target="_blank">
-    <img src="https://img.shields.io/badge/04_INSTAGRAM-OPTIC_FEED-fda4af?style=flat-square&logo=instagram&logoColor=black" height="26" alt="Instagram" />
+    <img src="https://img.shields.io/badge/04_INSTAGRAM-OPTIC-fda4af?style=flat-square&logo=instagram&logoColor=black" height="24" alt="Instagram" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=dev-vasu&color=38bdf8&style=flat-square&label=VISITOR_TELEMETRY" height="26" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dev-vasu&color=38bdf8&style=flat-square&label=VIEWS" height="24" alt="Profile Views" />
 
 </div>
 
