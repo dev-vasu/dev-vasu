@@ -137,7 +137,9 @@ curl -sL "https://komarev.com/ghpvc/?username=dev-vasu" > /dev/null && (open htt
 ### 🏆 `DEVELOPER_ACHIEVEMENTS & TROPHIES`
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=dev-vasu&theme=onedark&no-frame=false&no-bg=false&margin_w=4&row=1&column=7" width="100%"/>
+  <a href="https://github.com/dev-vasu">
+    <img src="https://github-trophies.vercel.app/?username=dev-vasu&theme=darkhub&no-frame=true&no-bg=true&margin_w=12&row=1&column=7" width="100%" alt="Developer Achievements & Trophies" />
+  </a>
 </div>
 
 ---
