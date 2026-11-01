@@ -210,21 +210,58 @@
 ### 📬 `ESTABLISH_ENCRYPTED_UPLINK`
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/uplink_matrix.svg?v=1" width="100%" alt="Encrypted Uplink Hub" />
+</div>
 
-  <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
-    <img src="https://img.shields.io/badge/Digital%20Card-Visit%20Node-06b6d4?style=for-the-badge&logo=fingerprint&logoColor=white" alt="Digital Card" />
-  </a>
-  <a href="mailto:svasudev941@gmail.com">
-    <img src="https://img.shields.io/badge/Encrypted%20Mail-svasudev941@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/vasudev-singh-jamwal" target="_blank">
-    <img src="https://img.shields.io/badge/Professional-vasudev--singh--jamwal-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/vasudevsinghh" target="_blank">
-    <img src="https://img.shields.io/badge/Transmission-@vasudevsinghh-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.instagram.com/rajput.vasudevv/" target="_blank">
-    <img src="https://img.shields.io/badge/Visuals-@rajput.vasudevv-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<br/>
 
+<div align="center">
+  <table width="100%">
+    <thead>
+      <tr style="background: rgba(148, 163, 184, 0.08);">
+        <th align="center">NODE</th>
+        <th align="left">TRANSMISSION CHANNEL</th>
+        <th align="left">PROTOCOL / IDENTIFIER</th>
+        <th align="center">RELAY STATUS</th>
+        <th align="center">ACTION</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><code>01</code></td>
+        <td><b>🪪 Cyber Digital ID</b></td>
+        <td><code>dev-vasu.github.io/digital-id</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/STATUS-ACTIVE_ONLINE-00f0ff?style=flat-square&logo=radar&logoColor=black" /></td>
+        <td align="center"><a href="https://dev-vasu.github.io/digital-id/" target="_blank"><b>[ ⚡ LAUNCH NODE ]</b></a></td>
+      </tr>
+      <tr>
+        <td align="center"><code>02</code></td>
+        <td><b>💼 LinkedIn Enterprise</b></td>
+        <td><code>in/vasudev-singh-jamwal</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/STATUS-CONNECTED-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></td>
+        <td align="center"><a href="https://www.linkedin.com/in/vasudev-singh-jamwal" target="_blank"><b>[ 🔗 CONNECT ]</b></a></td>
+      </tr>
+      <tr>
+        <td align="center"><code>03</code></td>
+        <td><b>📫 Encrypted Dispatch</b></td>
+        <td><code>svasudev941@gmail.com</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/STATUS-ACCEPTING-ea4335?style=flat-square&logo=gmail&logoColor=white" /></td>
+        <td align="center"><a href="mailto:svasudev941@gmail.com"><b>[ ✉️ TRANSMIT ]</b></a></td>
+      </tr>
+      <tr>
+        <td align="center"><code>04</code></td>
+        <td><b>🛰️ X Transmission</b></td>
+        <td><code>@vasudevsinghh</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/STATUS-BROADCASTING-ffffff?style=flat-square&logo=x&logoColor=black" /></td>
+        <td align="center"><a href="https://x.com/vasudevsinghh" target="_blank"><b>[ 📡 FOLLOW ]</b></a></td>
+      </tr>
+      <tr>
+        <td align="center"><code>05</code></td>
+        <td><b>📷 Optic Feed</b></td>
+        <td><code>@rajput.vasudevv</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/STATUS-STANDBY-e4405f?style=flat-square&logo=instagram&logoColor=white" /></td>
+        <td align="center"><a href="https://www.instagram.com/rajput.vasudevv/" target="_blank"><b>[ 📸 VIEW ]</b></a></td>
+      </tr>
+    </tbody>
+  </table>
 </div>

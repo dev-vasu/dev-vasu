@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="200">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="100%" stop-color="#0b1329" />
+    </linearGradient>
+
+    <!-- Card Background Gradient -->
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#111827" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#080e1a" stop-opacity="0.95" />
+    </linearGradient>
+
+    <!-- Metallic Titanium Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#334155" />
+      <stop offset="50%" stop-color="#00f0ff" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#334155" />
+    </linearGradient>
+
+    <!-- Subdued Cyan Accent Gradient -->
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#00f0ff" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .card-title { font-size: 11px; fill: #64748b; font-weight: 700; letter-spacing: 1.5px; }
+    .card-handle { font-size: 13.5px; fill: #f8fafc; font-weight: 600; letter-spacing: 0.5px; }
+    .card-badge { font-size: 9.5px; fill: #00f0ff; font-weight: 600; letter-spacing: 1px; }
+    .card-sub { font-size: 10px; fill: #94a3b8; }
+    .status-ping { animation: pulse 2s infinite ease-in-out; }
+    .node-box { transition: all 0.3s ease; }
+    .node-box:hover { stroke: #00f0ff; }
+  </style>
+
+  <!-- Container Box with Matte High-Tech Frame -->
+  <rect x="2" y="2" width="876" height="196" rx="10" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Top Tech Bar -->
+  <path d="M 2 26 L 878 26" stroke="#1e293b" stroke-width="1" />
+  <circle cx="20" cy="14" r="3.5" fill="#ef4444" opacity="0.8" />
+  <circle cx="34" cy="14" r="3.5" fill="#f59e0b" opacity="0.8" />
+  <circle cx="48" cy="14" r="3.5" fill="#10b981" opacity="0.8" />
+
+  <text x="70" y="18" class="mono" font-size="10" fill="#64748b" letter-spacing="1.5">TRANSMISSION_GATEWAY // SECURE PROTOCOL v4.9</text>
+  <text x="860" y="18" text-anchor="end" class="mono" font-size="10" fill="#00f0ff" opacity="0.9">STATUS: ONLINE [PORT 443]</text>
+
+  <!-- Node 1: Digital ID (Featured Interactive Hub) -->
+  <g transform="translate(16, 38)">
+    <rect class="node-box" width="160" height="146" rx="8" fill="url(#cardGrad)" stroke="#00f0ff" stroke-opacity="0.4" stroke-width="1.2" />
+    <!-- Tech corners -->
+    <path d="M 0 12 L 0 0 L 12 0" fill="none" stroke="#00f0ff" stroke-width="2" />
+    <path d="M 148 0 L 160 0 L 160 12" fill="none" stroke="#00f0ff" stroke-width="2" />
+    <path d="M 160 134 L 160 146 L 148 146" fill="none" stroke="#00f0ff" stroke-width="2" />
+    <path d="M 12 146 L 0 146 L 0 134" fill="none" stroke="#00f0ff" stroke-width="2" />
+
+    <text x="14" y="24" class="mono card-title">NODE 01</text>
+    <rect x="80" y="13" width="66" height="15" rx="3" fill="#00f0ff" fill-opacity="0.1" stroke="#00f0ff" stroke-opacity="0.3" stroke-width="0.8" />
+    <text x="113" y="24" text-anchor="middle" class="mono card-badge">PRIMARY</text>
+
+    <!-- Fingerprint / Card Icon -->
+    <g transform="translate(14, 38)" stroke="#38bdf8" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="0" y="0" width="28" height="20" rx="3" stroke="#00f0ff" />
+      <circle cx="8" cy="10" r="3" />
+      <path d="M 16 8 L 22 8 M 16 12 L 20 12" />
+    </g>
+
+    <text x="14" y="82" class="sans card-handle">Digital ID Hub</text>
+    <text x="14" y="98" class="mono card-sub">dev-vasu.github.io</text>
+    <text x="14" y="112" class="mono" font-size="9" fill="#64748b">WebGL Kinetic Card</text>
+
+    <!-- Action Pill -->
+    <rect x="14" y="122" width="132" height="18" rx="4" fill="#00f0ff" fill-opacity="0.15" stroke="#00f0ff" stroke-opacity="0.5" stroke-width="1" />
+    <text x="80" y="134" text-anchor="middle" class="mono" font-size="9" fill="#38bdf8" font-weight="700">INITIALIZE NODE &#8594;</text>
+  </g>
+
+  <!-- Node 2: Professional (LinkedIn) -->
+  <g transform="translate(188, 38)">
+    <rect class="node-box" width="160" height="146" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
+    <text x="14" y="24" class="mono card-title">NODE 02</text>
+    <rect x="92" y="13" width="54" height="15" rx="3" fill="#0a66c2" fill-opacity="0.15" stroke="#0a66c2" stroke-opacity="0.4" stroke-width="0.8" />
+    <text x="119" y="24" text-anchor="middle" class="mono" font-size="9" fill="#60a5fa" font-weight="600">NETWORK</text>
+
+    <!-- LinkedIn Icon -->
+    <g transform="translate(14, 38)" fill="#0a66c2">
+      <rect x="0" y="0" width="22" height="22" rx="4" fill="#0a66c2" />
+      <text x="11" y="16" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="14" fill="#ffffff">in</text>
+    </g>
+
+    <text x="14" y="82" class="sans card-handle">LinkedIn</text>
+    <text x="14" y="98" class="mono card-sub">vasudev-singh-jamwal</text>
+    <text x="14" y="112" class="mono" font-size="9" fill="#64748b">Enterprise Comms</text>
+
+    <!-- Action Pill -->
+    <rect x="14" y="122" width="132" height="18" rx="4" fill="#334155" fill-opacity="0.4" stroke="#475569" stroke-width="0.8" />
+    <text x="80" y="134" text-anchor="middle" class="mono" font-size="9" fill="#cbd5e1" font-weight="600">CONNECT &#8594;</text>
+  </g>
+
+  <!-- Node 3: Encrypted Mail -->
+  <g transform="translate(360, 38)">
+    <rect class="node-box" width="160" height="146" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
+    <text x="14" y="24" class="mono card-title">NODE 03</text>
+    <rect x="96" y="13" width="50" height="15" rx="3" fill="#ea4335" fill-opacity="0.15" stroke="#ea4335" stroke-opacity="0.4" stroke-width="0.8" />
+    <text x="121" y="24" text-anchor="middle" class="mono" font-size="9" fill="#f87171" font-weight="600">DIRECT</text>
+
+    <!-- Mail Icon -->
+    <g transform="translate(14, 38)" stroke="#ea4335" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="0" y="1" width="24" height="18" rx="3" />
+      <path d="M 0 4 L 12 12 L 24 4" />
+    </g>
+
+    <text x="14" y="82" class="sans card-handle">Secure Email</text>
+    <text x="14" y="98" class="mono card-sub" font-size="9">svasudev941@gmail</text>
+    <text x="14" y="112" class="mono" font-size="9" fill="#64748b">PGP / Direct Dispatch</text>
+
+    <!-- Action Pill -->
+    <rect x="14" y="122" width="132" height="18" rx="4" fill="#334155" fill-opacity="0.4" stroke="#475569" stroke-width="0.8" />
+    <text x="80" y="134" text-anchor="middle" class="mono" font-size="9" fill="#cbd5e1" font-weight="600">SEND DISPATCH &#8594;</text>
+  </g>
+
+  <!-- Node 4: Transmission (X / Twitter) -->
+  <g transform="translate(532, 38)">
+    <rect class="node-box" width="160" height="146" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
+    <text x="14" y="24" class="mono card-title">NODE 04</text>
+    <rect x="100" y="13" width="46" height="15" rx="3" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.2" stroke-width="0.8" />
+    <text x="123" y="24" text-anchor="middle" class="mono" font-size="9" fill="#e2e8f0" font-weight="600">RELAY</text>
+
+    <!-- X Logo -->
+    <g transform="translate(14, 38)" fill="#f8fafc">
+      <path d="M 3 2 L 9.5 11 L 3.2 19 L 5.5 19 L 10.7 12.6 L 15.3 19 L 21 19 L 14.1 9.5 L 20 2 L 17.8 2 L 13 8 L 8.7 2 Z" />
+    </g>
+
+    <text x="14" y="82" class="sans card-handle">X / Twitter</text>
+    <text x="14" y="98" class="mono card-sub">@vasudevsinghh</text>
+    <text x="14" y="112" class="mono" font-size="9" fill="#64748b">Tech Thoughts &amp; AI</text>
+
+    <!-- Action Pill -->
+    <rect x="14" y="122" width="132" height="18" rx="4" fill="#334155" fill-opacity="0.4" stroke="#475569" stroke-width="0.8" />
+    <text x="80" y="134" text-anchor="middle" class="mono" font-size="9" fill="#cbd5e1" font-weight="600">FOLLOW PULSE &#8594;</text>
+  </g>
+
+  <!-- Node 5: Visuals (Instagram) -->
+  <g transform="translate(704, 38)">
+    <rect class="node-box" width="160" height="146" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
+    <text x="14" y="24" class="mono card-title">NODE 05</text>
+    <rect x="96" y="13" width="50" height="15" rx="3" fill="#e4405f" fill-opacity="0.15" stroke="#e4405f" stroke-opacity="0.4" stroke-width="0.8" />
+    <text x="121" y="24" text-anchor="middle" class="mono" font-size="9" fill="#f472b6" font-weight="600">OPTIC</text>
+
+    <!-- Instagram Icon -->
+    <g transform="translate(14, 38)" stroke="#e4405f" stroke-width="1.6" fill="none">
+      <rect x="1" y="1" width="20" height="20" rx="5" />
+      <circle cx="11" cy="11" r="5" />
+      <circle cx="16.5" cy="5.5" r="1" fill="#e4405f" />
+    </g>
+
+    <text x="14" y="82" class="sans card-handle">Instagram</text>
+    <text x="14" y="98" class="mono card-sub" font-size="9">@rajput.vasudevv</text>
+    <text x="14" y="112" class="mono" font-size="9" fill="#64748b">Life &amp; Perspectives</text>
+
+    <!-- Action Pill -->
+    <rect x="14" y="122" width="132" height="18" rx="4" fill="#334155" fill-opacity="0.4" stroke="#475569" stroke-width="0.8" />
+    <text x="80" y="134" text-anchor="middle" class="mono" font-size="9" fill="#cbd5e1" font-weight="600">VIEW FEED &#8594;</text>
+  </g>
+</svg>
