@@ -210,66 +210,25 @@
 ### 📬 `ESTABLISH_ENCRYPTED_UPLINK`
 
 <div align="center">
-  <table width="100%">
-    <thead>
-      <tr style="background: rgba(148, 163, 184, 0.08);">
-        <th align="center" width="8%">NODE</th>
-        <th align="left" width="28%">COMMUNICATION VECTOR</th>
-        <th align="left" width="34%">ENDPOINT / IDENTIFIER</th>
-        <th align="center" width="30%">DIRECT ACTION</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center"><code>01</code></td>
-        <td><b>🪪 Cyber Digital ID Hub</b></td>
-        <td><code>dev-vasu.github.io/digital-id</code></td>
-        <td align="center">
-          <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
-            <img src="https://img.shields.io/badge/LAUNCH_NODE-00f0ff?style=for-the-badge&logo=radar&logoColor=black" height="28" alt="Launch Digital ID" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><code>02</code></td>
-        <td><b>💼 LinkedIn Network</b></td>
-        <td><code>in/vasudev-singh-jamwal</code></td>
-        <td align="center">
-          <a href="https://www.linkedin.com/in/vasudev-singh-jamwal" target="_blank">
-            <img src="https://img.shields.io/badge/CONNECT-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><code>03</code></td>
-        <td><b>📫 Encrypted Dispatch</b></td>
-        <td><code>svasudev941@gmail.com</code></td>
-        <td align="center">
-          <a href="mailto:svasudev941@gmail.com">
-            <img src="https://img.shields.io/badge/DISPATCH_MAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><code>04</code></td>
-        <td><b>🛰️ X Transmission</b></td>
-        <td><code>@vasudevsinghh</code></td>
-        <td align="center">
-          <a href="https://x.com/vasudevsinghh" target="_blank">
-            <img src="https://img.shields.io/badge/FOLLOW_RELAY-000000?style=for-the-badge&logo=x&logoColor=white" height="28" alt="X" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><code>05</code></td>
-        <td><b>📷 Optic Feed</b></td>
-        <td><code>@rajput.vasudevv</code></td>
-        <td align="center">
-          <a href="https://www.instagram.com/rajput.vasudevv/" target="_blank">
-            <img src="https://img.shields.io/badge/VIEW_GALLERY-e4405f?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram" />
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
+    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_digital_id.svg?v=1" width="49%" alt="Digital ID Hub" />
+  </a>
+  <a href="https://www.linkedin.com/in/vasudev-singh-jamwal" target="_blank">
+    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_linkedin.svg?v=1" width="49%" alt="LinkedIn" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="mailto:svasudev941@gmail.com">
+    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_email.svg?v=1" width="49%" alt="Email" />
+  </a>
+  <a href="https://x.com/vasudevsinghh" target="_blank">
+    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_x.svg?v=1" width="49%" alt="X Transmission" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.instagram.com/rajput.vasudevv/" target="_blank">
+    <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/card_instagram.svg?v=1" width="98.5%" alt="Instagram Feed" />
+  </a>
 </div>
