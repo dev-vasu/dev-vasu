@@ -40,22 +40,15 @@
   <br/>
 
   <!-- Flagship Identity & Quantum Views Telemetry -->
-  <div align="center">
-    <table border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent;">
-      <tr style="border: none; background: transparent;">
-        <td style="border: none; padding: 4px; background: transparent;" align="center">
-          <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
-            <img src="badge_digital_id.svg?v=1" height="42" alt="Flagship Digital ID Hub" />
-          </a>
-        </td>
-        <td style="border: none; padding: 4px; background: transparent;" align="center">
-          <a href="https://github.com/dev-vasu">
-            <img src="https://komarev.com/ghpvc/?username=dev-vasu&style=for-the-badge&color=38bdf8&labelColor=030712&label=%E2%9A%A1%20QUANTUM_VIEWS" height="42" alt="Quantum Views" />
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
+  <p align="center">
+    <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
+      <img src="badge_digital_id.svg?v=2" height="42" alt="Flagship Digital ID Hub" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/dev-vasu">
+      <img src="https://komarev.com/ghpvc/?username=dev-vasu&style=for-the-badge&color=38bdf8&labelColor=030712&label=%E2%9A%A1%20QUANTUM_VIEWS" height="42" alt="Quantum Views" />
+    </a>
+  </p>
 
 </div>
 
