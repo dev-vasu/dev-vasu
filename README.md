@@ -74,6 +74,11 @@
                   DIGITAL IDENTITY: https://dev-vasu.github.io/digital-id/
 ```
 
+```bash
+# ⚡ Quick CLI / Terminal Handshake (Fetch Profile Payload)
+curl -sL https://dev-vasu.github.io/digital-id/vasudev.vcf | grep -E "FN|TITLE|ORG|EMAIL|URL"
+```
+
 ---
 
 <a id="neural-arsenal"></a>
