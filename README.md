@@ -11,7 +11,7 @@
 
   <br/><br/>
 
-  <!-- Interactive Quick Uplinks -->
+  <!-- Interactive Quick Uplinks & Profile Telemetry -->
   <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%AA%AA%20DIGITAL%20ID-INTERACTIVE%203D%20CARD-06b6d4?style=for-the-badge&logoColor=white&labelColor=0b0f19" alt="Digital ID" />
   </a>
@@ -24,6 +24,7 @@
   <a href="https://www.instagram.com/rajput.vasudevv/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-@RAJPUT.VASUDEVV-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0f19" alt="Instagram" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=dev-vasu&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -47,14 +48,6 @@
                   SYSTEM STATUS: 🟢 OPTIMAL (Production Operations)
                   DIGITAL IDENTITY: https://dev-vasu.github.io/digital-id/
 ```
-
----
-
-### 🏆 `DEVELOPER_ACHIEVEMENTS & TROPHIES`
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=dev-vasu&theme=onedark&no-frame=false&no-bg=false&margin_w=4&row=1&column=7" width="100%"/>
-</div>
 
 ---
 
@@ -105,6 +98,14 @@
       </tr>
     </tbody>
   </table>
+</div>
+
+---
+
+### 🏆 `DEVELOPER_ACHIEVEMENTS & TROPHIES`
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=dev-vasu&theme=onedark&no-frame=false&no-bg=false&margin_w=4&row=1&column=7" width="100%"/>
 </div>
 
 ---
