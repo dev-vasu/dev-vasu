@@ -11,20 +11,30 @@
 
   <br/><br/>
 
-  <!-- Interactive Quick Uplinks & Profile Telemetry -->
+  <a href="https://dev-vasu.github.io/digital-id/">
+    <img src="header_status_bar.svg?v=1" width="100%" alt="System HUD Header" />
+  </a>
+
+  <br/><br/>
+
+  <!-- High-Precision HUD Quick-Action Dock -->
   <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%AA%AA%20DIGITAL%20ID-INTERACTIVE%203D%20CARD-06b6d4?style=for-the-badge&logoColor=white&labelColor=0b0f19" alt="Digital ID" />
+    <img src="https://img.shields.io/badge/01_DIGITAL_ID-VISIT_3D_CANVAS-38bdf8?style=flat-square&logo=radar&logoColor=black" height="26" alt="Digital ID" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/vasudev-singh-jamwal" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-NETWORK%20UPLINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f19" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/02_LINKEDIN-ENTERPRISE_NET-93c5fd?style=flat-square&logo=linkedin&logoColor=black" height="26" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://x.com/vasudevsinghh" target="_blank">
-    <img src="https://img.shields.io/badge/X-@VASUDEVSINGHH-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0b0f19" alt="Twitter" />
+    <img src="https://img.shields.io/badge/03_X-TRANSMISSION-f1f5f9?style=flat-square&logo=x&logoColor=black" height="26" alt="Twitter" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/rajput.vasudevv/" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-@RAJPUT.VASUDEVV-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0f19" alt="Instagram" />
+    <img src="https://img.shields.io/badge/04_INSTAGRAM-OPTIC_FEED-fda4af?style=flat-square&logo=instagram&logoColor=black" height="26" alt="Instagram" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=dev-vasu&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=dev-vasu&color=38bdf8&style=flat-square&label=VISITOR_TELEMETRY" height="26" alt="Profile Views" />
 
 </div>
 
