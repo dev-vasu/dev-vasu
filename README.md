@@ -109,21 +109,75 @@
 
 ---
 
-### ⚡ `FEATURED_AI_PROJECTS`
+### ⚡ `ENGINEERED_SYSTEMS & RESEARCH_PROJECTS`
 
 <div align="center">
+  <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dev-vasu&repo=digital-id&theme=tokyonight&bg_color=030712&border_color=334155&title_color=38bdf8&icon_color=00f0ff&show_owner=false" width="49%" />
+  </a>
+  <a href="https://github.com/dev-vasu/Traffic-Incident-Classifier" target="_blank">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dev-vasu&repo=Traffic-Incident-Classifier&theme=tokyonight&bg_color=030712&border_color=334155&title_color=38bdf8&icon_color=00f0ff&show_owner=false" width="49%" />
+  </a>
+</div>
 
-| Project | Domain | Architecture | Live / Repo |
-| :--- | :--- | :--- | :--- |
-| **🪪 Cyber Digital ID** | WebGL / 3D Canvas / AI HUD | Kinetic Physics, FakeScroll & Particles | [🌐 Live ID](https://dev-vasu.github.io/digital-id/) |
-| **🤖 Autocorrection System** | Natural Language Processing | Neural Sequence Modeling & Word Vectors | [💻 View Code](https://github.com/dev-vasu) |
-| **🎵 Music Recommendation Engine** | Collaborative Filtering | Latent Factor Matrix Factorization | [📦 Repo](https://github.com/dev-vasu/Music-recommendation-System-with-Collaborative-Filtering) |
-| **🚦 Traffic Incident Classifier** | Deep Vision / Classification | CNN Feature Extraction | [📦 Repo](https://github.com/dev-vasu/Traffic-Incident-Classifier) |
-| **📱 Habito** | Mobile Architecture | Flutter, State Management & Local Storage | [📱 App Repo](https://github.com/dev-vasu/Habito) |
+<div align="center">
+  <a href="https://github.com/dev-vasu/Music-recommendation-System-with-Collaborative-Filtering" target="_blank">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dev-vasu&repo=Music-recommendation-System-with-Collaborative-Filtering&theme=tokyonight&bg_color=030712&border_color=334155&title_color=38bdf8&icon_color=00f0ff&show_owner=false" width="49%" />
+  </a>
+  <a href="https://github.com/dev-vasu/Habito" target="_blank">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dev-vasu&repo=Habito&theme=tokyonight&bg_color=030712&border_color=334155&title_color=38bdf8&icon_color=00f0ff&show_owner=false" width="49%" />
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr style="background: rgba(148, 163, 184, 0.08);">
+        <th align="left">SYSTEM / REPOSITORY</th>
+        <th align="left">DOMAIN ARCHITECTURE</th>
+        <th align="left">KEY TOOLCHAINS</th>
+        <th align="center">ACCESS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>🪪 Cyber Digital ID Hub</b></td>
+        <td>WebGL 3D Physics Canvas &amp; Custom Kinetic FakeScroll Driver</td>
+        <td><code>HTML5</code> <code>CSS Grid</code> <code>WebGL</code> <code>vCard 3.0</code></td>
+        <td align="center"><a href="https://dev-vasu.github.io/digital-id/"><b>[ 🌐 LIVE NODE ]</b></a></td>
+      </tr>
+      <tr>
+        <td><b>🤖 Neural Autocorrection</b></td>
+        <td>Bi-directional Sequence Modeling &amp; Embedding Proximity</td>
+        <td><code>Python</code> <code>Deep Learning</code> <code>NLP</code> <code>Vectors</code></td>
+        <td align="center"><a href="https://github.com/dev-vasu"><b>[ 📦 REPO ]</b></a></td>
+      </tr>
+      <tr>
+        <td><b>🎵 Collaborative Recommender</b></td>
+        <td>Matrix Factorization &amp; Latent Representation Algorithms</td>
+        <td><code>Python</code> <code>NumPy</code> <code>Pandas</code> <code>Scikit-Learn</code></td>
+        <td align="center"><a href="https://github.com/dev-vasu/Music-recommendation-System-with-Collaborative-Filtering"><b>[ 📦 REPO ]</b></a></td>
+      </tr>
+      <tr>
+        <td><b>🚦 Traffic Incident Classifier</b></td>
+        <td>Deep Convolutional Vision Classifier for Road Anomaly Detection</td>
+        <td><code>PyTorch</code> <code>CNN</code> <code>OpenCV</code> <code>Computer Vision</code></td>
+        <td align="center"><a href="https://github.com/dev-vasu/Traffic-Incident-Classifier"><b>[ 📦 REPO ]</b></a></td>
+      </tr>
+      <tr>
+        <td><b>📱 Habito Tracking System</b></td>
+        <td>Reactive Mobile Architecture with Persistent Local Engine</td>
+        <td><code>Flutter</code> <code>Dart</code> <code>State Management</code> <code>SQLite</code></td>
+        <td align="center"><a href="https://github.com/dev-vasu/Habito"><b>[ 📦 REPO ]</b></a></td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
+
 
 ### 📊 `QUANTUM_METRICS & GITHUB_ACTIVITY`
 
