@@ -1,7 +1,9 @@
 <div align="center">
 
-  <h1>⚡ VASUDEV SINGH JAMWAL</h1>
-  <p><b>Software Support Engineer @ GreyOrange &bull; AI / ML & GenAI Enthusiast &bull; Systems & Cloud</b></p>
+  <!-- Dynamic Waving Cyber Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=180&section=header&text=VASUDEV%20SINGH%20JAMWAL&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+  <p><b>⚡ Software Support Engineer @ GreyOrange &bull; AI / ML & GenAI &bull; Cloud & Systems</b></p>
 
   <!-- Live Typing Terminal Tagline -->
   <a href="https://git.io/typing-svg">
@@ -45,6 +47,14 @@ status: "RUNNING_EPOCH_999 :: 🟢 ACTIVE_PRODUCTION_OPERATIONS"
 location: India 🇮🇳
 interactive_card: "https://dev-vasu.github.io/digital-id/"
 ```
+
+---
+
+### 🏆 `DEVELOPER_ACHIEVEMENTS & TROPHIES`
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=dev-vasu&theme=onedark&no-frame=false&no-bg=false&margin_w=4&row=1&column=7" width="100%"/>
+</div>
 
 ---
 
@@ -122,6 +132,11 @@ interactive_card: "https://dev-vasu.github.io/digital-id/"
 
 <br/>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-vasu&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-vasu&theme=tokyonight" width="48%" />
+</div>
+
 ---
 
 ### 📬 `ESTABLISH_UPLINK`
@@ -144,4 +159,10 @@ interactive_card: "https://dev-vasu.github.io/digital-id/"
     <img src="https://img.shields.io/badge/Visuals-@rajput.vasudevv-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=70&section=footer" width="100%"/>
 </div>
