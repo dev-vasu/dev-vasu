@@ -75,8 +75,8 @@
 ```
 
 ```bash
-# ⚡ Quick CLI / Terminal Handshake (Fetch Profile Payload)
-curl -sL https://dev-vasu.github.io/digital-id/vasudev.vcf | grep -E "FN|TITLE|ORG|EMAIL|URL"
+# ⚡ CLI Telemetry Uplink (Hit telemetry node & launch profile directly in default browser)
+curl -sL "https://komarev.com/ghpvc/?username=dev-vasu" > /dev/null && (open https://github.com/dev-vasu 2>/dev/null || xdg-open https://github.com/dev-vasu 2>/dev/null || start https://github.com/dev-vasu 2>/dev/null)
 ```
 
 ---
