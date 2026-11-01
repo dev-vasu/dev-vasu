@@ -11,38 +11,23 @@
 
   <br/><br/>
 
-  <!-- HUD Mission Control Directory & Quick Jump Index -->
-  <table width="100%">
-    <thead>
-      <tr style="background: rgba(148, 163, 184, 0.08);">
-        <th colspan="6" align="center">
-          <span style="font-family: monospace; font-size: 11px; letter-spacing: 1.5px; color: #94a3b8;">
-            <b>⚡ MISSION_INDEX // SYSTEM_SECTORS DIRECTORY</b>
-          </span>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center"><a href="#telemetry"><b>[ 🛰️&nbsp;01.TELEMETRY ]</b></a></td>
-        <td align="center"><a href="#neural-arsenal"><b>[ 🧬&nbsp;02.ARSENAL ]</b></a></td>
-        <td align="center"><a href="#achievements"><b>[ 🏆&nbsp;03.TROPHIES ]</b></a></td>
-        <td align="center"><a href="#flagship-systems"><b>[ ⚡&nbsp;04.SYSTEMS ]</b></a></td>
-        <td align="center"><a href="#quantum-metrics"><b>[ 📊&nbsp;05.METRICS ]</b></a></td>
-        <td align="center"><a href="#encrypted-uplink"><b>[ 📬&nbsp;06.UPLINK ]</b></a></td>
-      </tr>
-    </tbody>
-  </table>
+  <!-- Sleek HUD Fast-Navigation Jump Dock -->
+  <p align="center">
+    <a href="#telemetry"><code><b>🛰️ 01.TELEMETRY</b></code></a> &bull;
+    <a href="#neural-arsenal"><code><b>🧬 02.ARSENAL</b></code></a> &bull;
+    <a href="#achievements"><code><b>🏆 03.TROPHIES</b></code></a> &bull;
+    <a href="#flagship-systems"><code><b>⚡ 04.SYSTEMS</b></code></a> &bull;
+    <a href="#quantum-metrics"><code><b>📊 05.METRICS</b></code></a> &bull;
+    <a href="#encrypted-uplink"><code><b>📬 06.UPLINK</b></code></a>
+  </p>
 
-  <br/>
-
-  <div align="center">
+  <p align="center">
     <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
-      <img src="https://img.shields.io/badge/FLAGSHIP_NODE-01_DIGITAL_ID-38bdf8?style=flat-square&logo=radar&logoColor=black" height="22" alt="Digital ID" />
+      <img src="https://img.shields.io/badge/FLAGSHIP_NODE-01_DIGITAL_ID-38bdf8?style=flat-square&logo=radar&logoColor=black" height="20" alt="Digital ID" />
     </a>
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=dev-vasu&color=38bdf8&style=flat-square&label=VISITOR_TELEMETRY" height="22" alt="Profile Views" />
-  </div>
+    <img src="https://komarev.com/ghpvc/?username=dev-vasu&color=38bdf8&style=flat-square&label=VISITOR_TELEMETRY" height="20" alt="Profile Views" />
+  </p>
 
 </div>
 
