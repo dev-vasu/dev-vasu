@@ -116,75 +116,66 @@
 
 ---
 
-### ⚡ `ENGINEERED_SYSTEMS & RESEARCH_PROJECTS`
+### ⚡ `FLAGSHIP_ENGINEERING & CORE_SYSTEMS`
 
 <div align="center">
-  <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dev-vasu&repo=digital-id&theme=tokyonight&bg_color=030712&border_color=334155&title_color=38bdf8&icon_color=00f0ff&show_owner=false" width="49%" />
-  </a>
-  <a href="https://github.com/dev-vasu/Traffic-Incident-Classifier" target="_blank">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dev-vasu&repo=Traffic-Incident-Classifier&theme=tokyonight&bg_color=030712&border_color=334155&title_color=38bdf8&icon_color=00f0ff&show_owner=false" width="49%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/dev-vasu/Music-recommendation-System-with-Collaborative-Filtering" target="_blank">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dev-vasu&repo=Music-recommendation-System-with-Collaborative-Filtering&theme=tokyonight&bg_color=030712&border_color=334155&title_color=38bdf8&icon_color=00f0ff&show_owner=false" width="49%" />
-  </a>
-  <a href="https://github.com/dev-vasu/Habito" target="_blank">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dev-vasu&repo=Habito&theme=tokyonight&bg_color=030712&border_color=334155&title_color=38bdf8&icon_color=00f0ff&show_owner=false" width="49%" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
+  <table width="100%">
     <thead>
       <tr style="background: rgba(148, 163, 184, 0.08);">
-        <th align="left">SYSTEM / REPOSITORY</th>
-        <th align="left">DOMAIN ARCHITECTURE</th>
-        <th align="left">KEY TOOLCHAINS</th>
-        <th align="center">ACCESS</th>
+        <th align="left" width="28%">CORE SYSTEM / ARCHITECTURE</th>
+        <th align="left" width="38%">DOMAIN &amp; TECHNICAL CAPABILITY</th>
+        <th align="left" width="22%">KEY TOOLCHAINS</th>
+        <th align="center" width="12%">ACCESS</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><b>🪪 Cyber Digital ID Hub</b></td>
-        <td>WebGL 3D Physics Canvas &amp; Custom Kinetic FakeScroll Driver</td>
+        <td><b>🪪 Cyber Digital ID Hub</b><br/><sub>High-Tech Interactive Profile Core</sub></td>
+        <td>Dynamic WebGL 3D physics canvas, zero-dependency kinetic FakeScroll driver, rAF-driven dragging, and embedded vCard 3.0 generator.</td>
         <td><code>HTML5</code> <code>CSS Grid</code> <code>WebGL</code> <code>vCard 3.0</code></td>
-        <td align="center"><a href="https://dev-vasu.github.io/digital-id/"><b>[ 🌐 LIVE NODE ]</b></a></td>
+        <td align="center"><a href="https://dev-vasu.github.io/digital-id/" target="_blank"><b>[🌐&nbsp;LIVE&nbsp;DEMO]</b></a></td>
       </tr>
       <tr>
-        <td><b>🤖 Neural Autocorrection</b></td>
-        <td>Bi-directional Sequence Modeling &amp; Embedding Proximity</td>
-        <td><code>Python</code> <code>Deep Learning</code> <code>NLP</code> <code>Vectors</code></td>
-        <td align="center"><a href="https://github.com/dev-vasu"><b>[ 📦 REPO ]</b></a></td>
+        <td><b>🤖 Robotics Web Automation</b><br/><sub>Warehouse &amp; Autonomous Telemetry</sub></td>
+        <td>Modern enterprise frontend architecture for industrial automation, real-time device control, and robotics fleet coordination.</td>
+        <td><code>TypeScript</code> <code>React</code> <code>Robotics</code> <code>Node.js</code></td>
+        <td align="center"><a href="https://github.com/dev-vasu/robotics-web" target="_blank"><b>[📦&nbsp;VIEW&nbsp;REPO]</b></a></td>
       </tr>
       <tr>
-        <td><b>🎵 Collaborative Recommender</b></td>
-        <td>Matrix Factorization &amp; Latent Representation Algorithms</td>
+        <td><b>🎵 Aether Music Platform</b><br/><sub>Cloud Stream Audio Engine</sub></td>
+        <td>Full-stack reactive audio platform featuring cloud synchronization, responsive playback pipelines, and dynamic playlist telemetry.</td>
+        <td><code>TypeScript</code> <code>Audio API</code> <code>Tailwind</code> <code>Next.js</code></td>
+        <td align="center"><a href="https://github.com/dev-vasu/aether-music" target="_blank"><b>[📦&nbsp;VIEW&nbsp;REPO]</b></a></td>
+      </tr>
+      <tr>
+        <td><b>🚦 Traffic Incident Vision Classifier</b><br/><sub>Deep Convolutional Road Safety Model</sub></td>
+        <td>Deep learning convolutional computer vision pipeline trained to classify and detect complex road anomalies, incidents, and congestion.</td>
+        <td><code>Python</code> <code>PyTorch</code> <code>CNN</code> <code>OpenCV</code></td>
+        <td align="center"><a href="https://github.com/dev-vasu/Traffic-Incident-Classifier" target="_blank"><b>[📦&nbsp;VIEW&nbsp;REPO]</b></a></td>
+      </tr>
+      <tr>
+        <td><b>🎧 Collaborative Filtering Music Recommender</b><br/><sub>Latent Factor Machine Learning Model</sub></td>
+        <td>Personalized recommender engine leveraging user-item interaction matrices, collaborative filtering algorithms, and latent embedding vectors.</td>
         <td><code>Python</code> <code>NumPy</code> <code>Pandas</code> <code>Scikit-Learn</code></td>
-        <td align="center"><a href="https://github.com/dev-vasu/Music-recommendation-System-with-Collaborative-Filtering"><b>[ 📦 REPO ]</b></a></td>
+        <td align="center"><a href="https://github.com/dev-vasu/Music-recommendation-System-with-Collaborative-Filtering" target="_blank"><b>[📦&nbsp;VIEW&nbsp;REPO]</b></a></td>
       </tr>
       <tr>
-        <td><b>🚦 Traffic Incident Classifier</b></td>
-        <td>Deep Convolutional Vision Classifier for Road Anomaly Detection</td>
-        <td><code>PyTorch</code> <code>CNN</code> <code>OpenCV</code> <code>Computer Vision</code></td>
-        <td align="center"><a href="https://github.com/dev-vasu/Traffic-Incident-Classifier"><b>[ 📦 REPO ]</b></a></td>
+        <td><b>📱 Habito Tracking System</b><br/><sub>Cross-Platform Reactive Mobile Client</sub></td>
+        <td>Offline-first habit engineering and behavioural feedback application powered by reactive state streams and local SQLite cache.</td>
+        <td><code>Dart</code> <code>Flutter</code> <code>State Management</code> <code>SQLite</code></td>
+        <td align="center"><a href="https://github.com/dev-vasu/Habito" target="_blank"><b>[📦&nbsp;VIEW&nbsp;REPO]</b></a></td>
       </tr>
       <tr>
-        <td><b>📱 Habito Tracking System</b></td>
-        <td>Reactive Mobile Architecture with Persistent Local Engine</td>
-        <td><code>Flutter</code> <code>Dart</code> <code>State Management</code> <code>SQLite</code></td>
-        <td align="center"><a href="https://github.com/dev-vasu/Habito"><b>[ 📦 REPO ]</b></a></td>
+        <td><b>🍇 Raisin Grain Anomaly Classifier</b><br/><sub>Multi-Model Comparative Analysis</sub></td>
+        <td>Supervised classification benchmarks comparing Decision Trees, Logistic Regression, and Support Vector Machines (SVM) on granular morphological data.</td>
+        <td><code>Python</code> <code>SVM</code> <code>Decision Trees</code> <code>Scikit-Learn</code></td>
+        <td align="center"><a href="https://github.com/dev-vasu/Classification-of-Raisin-grains-using-Decision-Tree-Logistic-Regression-SVM" target="_blank"><b>[📦&nbsp;VIEW&nbsp;REPO]</b></a></td>
       </tr>
     </tbody>
   </table>
 </div>
 
 ---
-
 
 ### 📊 `QUANTUM_METRICS & GITHUB_ACTIVITY`
 
