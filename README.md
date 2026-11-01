@@ -9,6 +9,13 @@
   <a href="https://twitter.com/vasudevsinghh" target="_blank">
     <img src="https://img.shields.io/twitter/follow/vasudevsinghh?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
+  <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
+    <img src="https://img.shields.io/badge/Digital%20ID-Visit%20Card-06b6d4?style=for-the-badge&logo=fingerprint&logoColor=white" alt="Digital ID" />
+  </a>
+</p>
+
+<p align="center">
+  📇 <b><a href="https://dev-vasu.github.io/digital-id/">⚡ View My Interactive Neural Digital ID Card & Contact Hub</a></b>
 </p>
 
 ---
