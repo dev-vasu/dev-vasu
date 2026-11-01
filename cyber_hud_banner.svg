@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="100%" height="100%">
+  <defs>
+    <!-- Dark Sci-fi Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040914" />
+      <stop offset="50%" stop-color="#070f1e" />
+      <stop offset="100%" stop-color="#020409" />
+    </linearGradient>
+
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(12, 22, 45, 0.75)" />
+      <stop offset="100%" stop-color="rgba(4, 9, 20, 0.85)" />
+    </linearGradient>
+
+    <!-- Scanline Pattern -->
+    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="rgba(0, 240, 255, 0.03)" stroke-width="1" />
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Courier New', monospace; }
+    .display { font-family: 'Space Grotesk', -apple-system, sans-serif; font-weight: 800; letter-spacing: 2px; }
+    .hud-title { fill: #00f0ff; font-size: 11px; letter-spacing: 1.5px; }
+    .hud-dim { fill: #64748b; font-size: 10px; }
+    .hud-val { fill: #e2e8f0; font-size: 11px; }
+    .hud-accent { fill: #38bdf8; font-weight: 600; }
+    .hud-box { fill: url(#cardGrad); stroke: rgba(6, 182, 212, 0.35); stroke-width: 1; rx: 6px; }
+    .hud-box-purple { fill: url(#cardGrad); stroke: rgba(168, 85, 247, 0.35); stroke-width: 1; rx: 6px; }
+    .hud-box:hover, .btn:hover { stroke: #00f0ff; stroke-width: 1.5; filter: drop-shadow(0 0 6px rgba(0, 240, 255, 0.4)); cursor: pointer; }
+    .btn-text { fill: #ffffff; font-size: 11px; font-weight: bold; letter-spacing: 1px; }
+    
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 0.8; }
+      50% { opacity: 0.3; }
+    }
+    .pulsing { animation: pulseGlow 2.5s infinite ease-in-out; }
+    
+    @keyframes radarSpin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    .radar-sweep { transform-origin: 755px 75px; animation: radarSpin 4s linear infinite; }
+  </style>
+
+  <!-- Background Layer -->
+  <rect width="850" height="360" rx="14" fill="url(#bgGrad)" stroke="rgba(0, 240, 255, 0.35)" stroke-width="1.2" />
+  <rect width="850" height="360" rx="14" fill="url(#scanlines)" pointer-events="none" />
+
+  <!-- Corner Sci-Fi Brackets -->
+  <path d="M 12 30 L 12 12 L 30 12" fill="none" stroke="#00f0ff" stroke-width="2" />
+  <path d="M 838 30 L 838 12 L 820 12" fill="none" stroke="#00f0ff" stroke-width="2" />
+  <path d="M 12 330 L 12 348 L 30 348" fill="none" stroke="#00f0ff" stroke-width="2" />
+  <path d="M 838 330 L 838 348 L 820 348" fill="none" stroke="#00f0ff" stroke-width="2" />
+
+  <!-- Crosshairs -->
+  <circle cx="20" cy="20" r="2" fill="#00f0ff" opacity="0.6" />
+  <circle cx="830" cy="20" r="2" fill="#00f0ff" opacity="0.6" />
+  <circle cx="20" cy="340" r="2" fill="#00f0ff" opacity="0.6" />
+  <circle cx="830" cy="340" r="2" fill="#00f0ff" opacity="0.6" />
+
+  <!-- TOP HEADER HUD -->
+  <g transform="translate(30, 22)">
+    <circle cx="6" cy="10" r="4" fill="#10b981" class="pulsing" filter="url(#neonGlow)" />
+    <text x="18" y="14" class="mono hud-title" font-weight="700">SYS_TELEMETRY // ROBOTIC_CORE::GREYORANGE</text>
+    <text x="440" y="14" class="mono hud-dim">NODE_ID: #VASU-01 | ENCLAVE: PROD_EAST</text>
+    <text x="680" y="14" class="mono" fill="#10b981" font-size="10px">STATUS: 200 OK</text>
+    <line x1="0" y1="22" x2="790" y2="22" stroke="rgba(0, 240, 255, 0.2)" stroke-width="1" />
+  </g>
+
+  <!-- OPERATOR BIO BLOCK (LEFT) -->
+  <g transform="translate(30, 60)">
+    <rect width="420" height="150" class="hud-box" />
+    <path d="M 0 16 L 16 0 L 420 0 L 420 150 L 0 150 Z" fill="none" stroke="rgba(0, 240, 255, 0.5)" stroke-width="1" />
+    
+    <text x="20" y="32" class="display" font-size="20" fill="#ffffff" filter="url(#softGlow)">VASUDEV SINGH JAMWAL</text>
+    <text x="20" y="52" class="mono hud-accent" font-size="11">SOFTWARE SUPPORT ENGINEER @ GREYORANGE</text>
+    
+    <line x1="20" y1="64" x2="400" y2="64" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
+    
+    <text x="20" y="82" class="mono hud-dim">SYSTEM_FOCUS :</text>
+    <text x="125" y="82" class="mono hud-val">Autonomous Mobile Robots &amp; Warehouse Ecosystems</text>
+    
+    <text x="20" y="100" class="mono hud-dim">ORCHESTRATION:</text>
+    <text x="125" y="100" class="mono" fill="#38bdf8" font-size="11px">Kubernetes &bull; Docker &bull; Erlang BEAM &bull; Linux VMs</text>
+    
+    <text x="20" y="118" class="mono hud-dim">OBSERVABILITY:</text>
+    <text x="125" y="118" class="mono" fill="#a855f7" font-size="11px">InfluxDB &bull; Grafana &bull; PostgreSQL &bull; cURL / APIs</text>
+    
+    <text x="20" y="136" class="mono hud-dim">NEURAL CORE :</text>
+    <text x="125" y="136" class="mono" fill="#10b981" font-size="11px">Generative AI &bull; LLM Workflows &bull; Deep Learning</text>
+  </g>
+
+  <!-- RADAR / SENSOR TELEMETRY (RIGHT) -->
+  <g transform="translate(470, 60)">
+    <rect width="350" height="150" class="hud-box-purple" />
+    <text x="18" y="24" class="mono" fill="#a855f7" font-size="10px" font-weight="700" letter-spacing="1.5px">LIVE_TELEMETRY // RADAR_DIAGNOSTICS</text>
+    
+    <!-- Mini Radar Circle -->
+    <g transform="translate(45, 80)">
+      <circle cx="0" cy="0" r="42" fill="none" stroke="rgba(168, 85, 247, 0.25)" stroke-width="1" />
+      <circle cx="0" cy="0" r="28" fill="none" stroke="rgba(0, 240, 255, 0.3)" stroke-width="1" stroke-dasharray="3,3" />
+      <circle cx="0" cy="0" r="14" fill="none" stroke="rgba(168, 85, 247, 0.4)" stroke-width="1" />
+      <line x1="-46" y1="0" x2="46" y2="0" stroke="rgba(168, 85, 247, 0.2)" />
+      <line x1="0" y1="-46" x2="0" y2="46" stroke="rgba(168, 85, 247, 0.2)" />
+      
+      <!-- Sweep Line -->
+      <line x1="0" y1="0" x2="35" y2="-25" stroke="#00f0ff" stroke-width="1.5" opacity="0.8" />
+      <circle cx="22" cy="-14" r="2.5" fill="#10b981" filter="url(#neonGlow)" />
+      <circle cx="-16" cy="18" r="2" fill="#00f0ff" />
+    </g>
+
+    <!-- Diagnostics telemetry readings -->
+    <g transform="translate(125, 45)" class="mono" font-size="10px">
+      <text y="14" fill="#94a3b8">CLUSTER_LOAD   : <tspan fill="#00f0ff">34.2% [NOMINAL]</tspan></text>
+      <text y="30" fill="#94a3b8">K8S_PODS_UP    : <tspan fill="#10b981">128/128 HEALTHY</tspan></text>
+      <text y="46" fill="#94a3b8">ERLANG_PROCESS : <tspan fill="#a855f7">BEAM RUNNING</tspan></text>
+      <text y="62" fill="#94a3b8">INFLUX_INGEST  : <tspan fill="#38bdf8">42.8k metrics/s</tspan></text>
+      <text y="78" fill="#94a3b8">GENAI_PIPELINE : <tspan fill="#10b981">ONLINE &amp; READY</tspan></text>
+      <text y="94" fill="#94a3b8">LOCATION_LOCK  : <tspan fill="#e2e8f0">Phagwara, PB, IN</tspan></text>
+    </g>
+  </g>
+
+  <!-- LOWER SECTION: FUTURISTIC COMMAND ACTION CHANNELS (REPLACING BORING BADGES) -->
+  <g transform="translate(30, 226)">
+    <text x="2" y="12" class="mono hud-title" font-weight="700">CYBER_UPLINK // INTERACTIVE_ACCESS_TERMINALS</text>
+    <line x1="330" y1="8" x2="790" y2="8" stroke="rgba(0, 240, 255, 0.15)" stroke-width="1" />
+
+    <!-- 1. DIGITAL ID TERMINAL (PRIMARY CYBER BUTTON) -->
+    <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
+      <g transform="translate(0, 22)" class="btn">
+        <rect width="186" height="58" rx="6" fill="rgba(6, 182, 212, 0.12)" stroke="#00f0ff" stroke-width="1.2" />
+        <path d="M 0 10 L 10 0 L 186 0 L 186 58 L 0 58 Z" fill="none" stroke="#00f0ff" stroke-width="1.2" />
+        <circle cx="18" cy="29" r="6" fill="#00f0ff" class="pulsing" filter="url(#neonGlow)" />
+        <text x="34" y="24" class="display" font-size="12" fill="#00f0ff">🪪 DIGITAL ID</text>
+        <text x="34" y="42" class="mono" font-size="9" fill="#94a3b8">ACCESS 3D HUD NODE &rarr;</text>
+        <circle cx="174" cy="12" r="2" fill="#00f0ff" opacity="0.6" />
+      </g>
+    </a>
+
+    <!-- 2. LINKEDIN NETWORK NODE -->
+    <a href="https://www.linkedin.com/in/vasudev-singh-jamwal" target="_blank">
+      <g transform="translate(201, 22)" class="btn">
+        <rect width="186" height="58" rx="6" fill="rgba(10, 102, 194, 0.12)" stroke="rgba(10, 102, 194, 0.6)" stroke-width="1.2" />
+        <rect x="12" y="18" width="22" height="22" rx="3" fill="#0A66C2" />
+        <text x="18" y="34" class="mono" font-size="14" fill="#ffffff" font-weight="bold">in</text>
+        <text x="44" y="24" class="display" font-size="12" fill="#38bdf8">LINKEDIN</text>
+        <text x="44" y="42" class="mono" font-size="9" fill="#94a3b8">vasudev-singh-jamwal</text>
+      </g>
+    </a>
+
+    <!-- 3. X / TWITTER QUANTUM FEED -->
+    <a href="https://x.com/vasudevsinghh" target="_blank">
+      <g transform="translate(402, 22)" class="btn">
+        <rect width="186" height="58" rx="6" fill="rgba(255, 255, 255, 0.04)" stroke="rgba(255, 255, 255, 0.3)" stroke-width="1.2" />
+        <rect x="12" y="18" width="22" height="22" rx="3" fill="#000000" stroke="rgba(255,255,255,0.4)" stroke-width="0.8" />
+        <text x="18" y="34" class="mono" font-size="13" fill="#ffffff" font-weight="bold">&#120143;</text>
+        <text x="44" y="24" class="display" font-size="12" fill="#f8fafc">X (TWITTER)</text>
+        <text x="44" y="42" class="mono" font-size="9" fill="#94a3b8">@vasudevsinghh</text>
+      </g>
+    </a>
+
+    <!-- 4. INSTAGRAM OPTICAL FEED -->
+    <a href="https://www.instagram.com/rajput.vasudevv/" target="_blank">
+      <g transform="translate(603, 22)" class="btn">
+        <rect width="186" height="58" rx="6" fill="rgba(228, 64, 95, 0.1)" stroke="rgba(228, 64, 95, 0.5)" stroke-width="1.2" />
+        <circle cx="23" cy="29" r="10" fill="none" stroke="#E4405F" stroke-width="2" />
+        <circle cx="23" cy="29" r="4" fill="#E4405F" />
+        <text x="44" y="24" class="display" font-size="12" fill="#f43f5e">INSTAGRAM</text>
+        <text x="44" y="42" class="mono" font-size="9" fill="#94a3b8">@rajput.vasudevv</text>
+      </g>
+    </a>
+
+    <!-- BOTTOM TELEMETRY STATUS LINE -->
+    <g transform="translate(0, 96)" class="mono hud-dim" font-size="9.5px">
+      <text x="4" y="10">&bull; LATENCY: 12ms</text>
+      <text x="140" y="10">&bull; QUANTUM PROTOCOL: TLS 1.3 / BEAM</text>
+      <text x="400" y="10">&bull; BUFFER: ZERO_LOSS</text>
+      <text x="610" y="10">&bull; HANDSHAKE: MUTUAL_AUTHENTICATED</text>
+    </g>
+  </g>
+
+</svg>

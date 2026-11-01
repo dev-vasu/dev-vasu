@@ -1,34 +1,13 @@
 <div align="center">
 
-  <!-- Futuristic Cyberpunk Dynamic HUD Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=180&section=header&text=VASUDEV%20SINGH%20JAMWAL&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-  <!-- Glowing HUD Subtitle & Live Status -->
-  <p align="center">
-    <a href="https://dev-vasu.github.io/digital-id/"><img src="https://img.shields.io/badge/QUANTUM_NODE-ACTIVE_01-06b6d4?style=for-the-badge&logo=electron&logoColor=cyan&labelColor=030712" /></a>
-    <img src="https://img.shields.io/badge/ORBIT-GREYORANGE_ROBOTICS-8b5cf6?style=for-the-badge&logo=robot&logoColor=purple&labelColor=030712" />
-    <img src="https://img.shields.io/badge/SECURITY-ROOT_VERIFIED-10b981?style=for-the-badge&logo=gnubash&logoColor=emerald&labelColor=030712" />
-  </p>
-
-  <!-- Live Typing Terminal Tagline -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=620&lines=Software+Support+Engineer+%40+GreyOrange;Orchestrating+Robotics+%26+Warehouse+Automation;Erlang+%E2%80%A2+Kubernetes+%E2%80%A2+Docker+%E2%80%A2+Linux+VMs;PostgreSQL+%E2%80%A2+InfluxDB+%E2%80%A2+Grafana+Observability;Architecting+Autonomous+Generative+AI+Systems" alt="Typing SVG" />
-  </a>
+  <!-- Interactive Cyber Sci-Fi Command Telemetry Unit -->
+  <img src="cyber_hud_banner.svg" width="100%" alt="Cyberpunk Command Telemetry" />
 
   <br/><br/>
 
-  <!-- Interactive Cyber Quick-Link Badges -->
-  <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%AA%AA%20DIGITAL%20ID-INTERACTIVE%203D%20CARD-06b6d4?style=for-the-badge&logoColor=white&labelColor=0b0f19" alt="Digital ID" />
-  </a>
-  <a href="https://linkedin.com/in/vasudev-singh-jamwal" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-NETWORK%20UPLINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f19" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/vasudevsinghh" target="_blank">
-    <img src="https://img.shields.io/badge/X-@VASUDEVSINGHH-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0b0f19" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/rajput.vasudevv" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-@RAJPUT.VASUDEVV-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0f19" alt="Instagram" />
+  <!-- Live Typing Terminal Tagline -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=620&lines=Software+Support+Engineer+%40+GreyOrange;Robotics+%26+Warehouse+Automation+Ecosystems;K8s+%E2%80%A2+Docker+%E2%80%A2+Erlang+%E2%80%A2+Postgres+%E2%80%A2+Linux;Observability+with+Grafana+%26+InfluxDB;Generative+AI+%26+Neural+Language+Architectures" alt="Typing SVG" />
   </a>
 
 </div>
@@ -162,23 +141,11 @@
 ### 📬 `ESTABLISH_ENCRYPTED_UPLINK`
 
 <div align="center">
-
-  <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
-    <img src="https://img.shields.io/badge/Digital%20Card-Visit%20Node-06b6d4?style=for-the-badge&logo=fingerprint&logoColor=white" alt="Digital Card" />
-  </a>
-  <a href="mailto:svasudev941@gmail.com">
-    <img src="https://img.shields.io/badge/Encrypted%20Mail-svasudev941@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/vasudev-singh-jamwal" target="_blank">
-    <img src="https://img.shields.io/badge/Professional-vasudev--singh--jamwal-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/vasudevsinghh" target="_blank">
-    <img src="https://img.shields.io/badge/Transmission-@vasudevsinghh-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.instagram.com/rajput.vasudevv/" target="_blank">
-    <img src="https://img.shields.io/badge/Visuals-@rajput.vasudevv-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-
+  <a href="https://dev-vasu.github.io/digital-id/" target="_blank"><b>[ 🪪 ACCESS 3D DIGITAL ID HUD ]</b></a> &nbsp;&bull;&nbsp;
+  <a href="mailto:svasudev941@gmail.com"><b>[ ✉️ ENCRYPTED DISPATCH ]</b></a> &nbsp;&bull;&nbsp;
+  <a href="https://www.linkedin.com/in/vasudev-singh-jamwal" target="_blank"><b>[ 🔗 LINKEDIN NODE ]</b></a> &nbsp;&bull;&nbsp;
+  <a href="https://x.com/vasudevsinghh" target="_blank"><b>[ 📡 X FEED ]</b></a> &nbsp;&bull;&nbsp;
+  <a href="https://www.instagram.com/rajput.vasudevv/" target="_blank"><b>[ 📸 INSTAGRAM ]</b></a>
 </div>
 
 <br/>
