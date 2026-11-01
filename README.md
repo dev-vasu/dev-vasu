@@ -99,21 +99,19 @@ interactive_card: "https://dev-vasu.github.io/digital-id/"
 ### 📊 `SYSTEM_METRICS & GITHUB_ACTIVITY`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-vasu&show_icons=true&theme=tokyonight&border_color=06b6d4&border_radius=12&bg_color=030712&text_color=f8fafc&icon_color=06b6d4&title_color=38bdf8&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vasu&layout=compact&theme=tokyonight&border_color=6366f1&border_radius=12&bg_color=030712&text_color=f8fafc&title_color=818cf8&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-vasu&show_icons=true&theme=tokyonight&border_color=06b6d4&border_radius=12&bg_color=030712&text_color=f8fafc&icon_color=06b6d4&title_color=38bdf8&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-vasu&layout=compact&theme=tokyonight&border_color=6366f1&border_radius=12&bg_color=030712&text_color=f8fafc&title_color=818cf8&hide_border=false" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-vasu&theme=tokyonight&background=030712&border=06B6D4&border_radius=12&stroke=06B6D4&ring=06B6D4&fire=38BDF8&currStreakLabel=06B6D4" width="97%" />
+  <img src="https://streak-stats.demolab.com?user=dev-vasu&theme=tokyonight&background=030712&border=06B6D4&border_radius=12&stroke=06B6D4&ring=06B6D4&fire=38BDF8&currStreakLabel=06B6D4" width="97%" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-vasu&theme=onedark&no-frame=false&no-bg=false&margin_w=4&row=1&column=7" width="100%"/>
-</div>
+
 
 ---
 
