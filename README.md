@@ -14,7 +14,7 @@
   <!-- Mission Control Fast-Navigation Dock -->
   <img src="nav_header_strip.svg?v=1" width="100%" alt="Mission Control Header" />
 
-  <br/><br/>
+  <br/>
 
   <div align="center">
     <a href="#telemetry">
