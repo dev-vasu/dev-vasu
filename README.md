@@ -1,7 +1,8 @@
 <div align="center">
 
-  <h1>⚡ VASUDEV SINGH JAMWAL</h1>
-  <p><b>Software Support Engineer @ GreyOrange &bull; AI / ML & GenAI &bull; Gurugram, Haryana 🇮🇳</b></p>
+  <!-- Stylized Cyberpunk Title Header -->
+  <img src="name_header.svg" width="100%" alt="Vasudev Singh Jamwal" />
+
 
   <!-- Dynamic Live Typing Terminal -->
   <a href="https://git.io/typing-svg">
