@@ -11,23 +11,8 @@
 
   <br/><br/>
 
-  <!-- Sleek HUD Fast-Navigation Jump Dock -->
-  <p align="center">
-    <a href="#telemetry"><code><b>🛰️ 01.TELEMETRY</b></code></a> &bull;
-    <a href="#neural-arsenal"><code><b>🧬 02.ARSENAL</b></code></a> &bull;
-    <a href="#achievements"><code><b>🏆 03.TROPHIES</b></code></a> &bull;
-    <a href="#flagship-systems"><code><b>⚡ 04.SYSTEMS</b></code></a> &bull;
-    <a href="#quantum-metrics"><code><b>📊 05.METRICS</b></code></a> &bull;
-    <a href="#encrypted-uplink"><code><b>📬 06.UPLINK</b></code></a>
-  </p>
-
-  <p align="center">
-    <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
-      <img src="https://img.shields.io/badge/FLAGSHIP_NODE-01_DIGITAL_ID-38bdf8?style=flat-square&logo=radar&logoColor=black" height="20" alt="Digital ID" />
-    </a>
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=dev-vasu&color=38bdf8&style=flat-square&label=VISITOR_TELEMETRY" height="20" alt="Profile Views" />
-  </p>
+  <!-- Integrated Mission Control Navigation & Telemetry Console -->
+  <img src="mission_nav.svg?v=1" width="100%" alt="Mission Control Navigation Console" />
 
 </div>
 
