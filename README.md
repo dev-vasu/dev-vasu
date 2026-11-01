@@ -210,57 +210,65 @@
 ### 📬 `ESTABLISH_ENCRYPTED_UPLINK`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dev-vasu/dev-vasu/main/uplink_matrix.svg?v=1" width="100%" alt="Encrypted Uplink Hub" />
-</div>
-
-<br/>
-
-<div align="center">
   <table width="100%">
     <thead>
       <tr style="background: rgba(148, 163, 184, 0.08);">
-        <th align="center">NODE</th>
-        <th align="left">TRANSMISSION CHANNEL</th>
-        <th align="left">PROTOCOL / IDENTIFIER</th>
-        <th align="center">RELAY STATUS</th>
-        <th align="center">ACTION</th>
+        <th align="center" width="8%">NODE</th>
+        <th align="left" width="28%">COMMUNICATION VECTOR</th>
+        <th align="left" width="34%">ENDPOINT / IDENTIFIER</th>
+        <th align="center" width="30%">DIRECT ACTION</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center"><code>01</code></td>
-        <td><b>🪪 Cyber Digital ID</b></td>
+        <td><b>🪪 Cyber Digital ID Hub</b></td>
         <td><code>dev-vasu.github.io/digital-id</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/STATUS-ACTIVE_ONLINE-00f0ff?style=flat-square&logo=radar&logoColor=black" /></td>
-        <td align="center"><a href="https://dev-vasu.github.io/digital-id/" target="_blank"><b>[⚡&nbsp;LAUNCH]</b></a></td>
+        <td align="center">
+          <a href="https://dev-vasu.github.io/digital-id/" target="_blank">
+            <img src="https://img.shields.io/badge/LAUNCH_NODE-00f0ff?style=for-the-badge&logo=radar&logoColor=black" height="28" alt="Launch Digital ID" />
+          </a>
+        </td>
       </tr>
       <tr>
         <td align="center"><code>02</code></td>
-        <td><b>💼 LinkedIn Enterprise</b></td>
+        <td><b>💼 LinkedIn Network</b></td>
         <td><code>in/vasudev-singh-jamwal</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/STATUS-CONNECTED-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></td>
-        <td align="center"><a href="https://www.linkedin.com/in/vasudev-singh-jamwal" target="_blank"><b>[🔗&nbsp;CONNECT]</b></a></td>
+        <td align="center">
+          <a href="https://www.linkedin.com/in/vasudev-singh-jamwal" target="_blank">
+            <img src="https://img.shields.io/badge/CONNECT-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+          </a>
+        </td>
       </tr>
       <tr>
         <td align="center"><code>03</code></td>
         <td><b>📫 Encrypted Dispatch</b></td>
         <td><code>svasudev941@gmail.com</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/STATUS-ACCEPTING-ea4335?style=flat-square&logo=gmail&logoColor=white" /></td>
-        <td align="center"><a href="mailto:svasudev941@gmail.com"><b>[✉️&nbsp;DISPATCH]</b></a></td>
+        <td align="center">
+          <a href="mailto:svasudev941@gmail.com">
+            <img src="https://img.shields.io/badge/DISPATCH_MAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
+          </a>
+        </td>
       </tr>
       <tr>
         <td align="center"><code>04</code></td>
         <td><b>🛰️ X Transmission</b></td>
         <td><code>@vasudevsinghh</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/STATUS-BROADCASTING-ffffff?style=flat-square&logo=x&logoColor=black" /></td>
-        <td align="center"><a href="https://x.com/vasudevsinghh" target="_blank"><b>[📡&nbsp;FOLLOW]</b></a></td>
+        <td align="center">
+          <a href="https://x.com/vasudevsinghh" target="_blank">
+            <img src="https://img.shields.io/badge/FOLLOW_RELAY-000000?style=for-the-badge&logo=x&logoColor=white" height="28" alt="X" />
+          </a>
+        </td>
       </tr>
       <tr>
         <td align="center"><code>05</code></td>
         <td><b>📷 Optic Feed</b></td>
         <td><code>@rajput.vasudevv</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/STATUS-STANDBY-e4405f?style=flat-square&logo=instagram&logoColor=white" /></td>
-        <td align="center"><a href="https://www.instagram.com/rajput.vasudevv/" target="_blank"><b>[📸&nbsp;VIEW]</b></a></td>
+        <td align="center">
+          <a href="https://www.instagram.com/rajput.vasudevv/" target="_blank">
+            <img src="https://img.shields.io/badge/VIEW_GALLERY-e4405f?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram" />
+          </a>
+        </td>
       </tr>
     </tbody>
   </table>
